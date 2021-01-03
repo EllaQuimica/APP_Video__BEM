@@ -2,7 +2,7 @@
 
 
 
-- Methodology BEM (Block, Element, Modifier) 
+- Methodology BEM (Block, Element, Modifier) - https://en.bem.info/methodology/
 - Flex Box
 - CSS Grid
 - HTML
