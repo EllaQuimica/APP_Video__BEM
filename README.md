@@ -7,3 +7,8 @@
 - CSS Grid
 - HTML
 
+Preview
+-------
+
+![Preview ](./docs/preview_app.png)
+
