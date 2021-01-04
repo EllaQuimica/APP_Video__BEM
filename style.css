@@ -44,7 +44,7 @@ body {
     justify-content: space-around;
     min-height: 700px;
     padding: 60px 68px 40px;
-    width: 300px;   
+    width: 320px;   
 }
 
   .login__container--form {
@@ -61,7 +61,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-between;
-    margin-top: 15px;
+    margin-top: 16px;
 }
 
 .login__container--remember-me a {
@@ -135,7 +135,6 @@ body {
 }
 
 .footer {
-    background: #5e1dfc;
     display: flex;
     align-items: center;
     height: 100px;
@@ -152,4 +151,19 @@ body {
   
 .footer a:hover {
     text-decoration: underline; 
+}
+
+@media only screen and (max-width: 600px) {
+    .login__container{
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        padding: 0px;
+        width: 100%;
+    }
+
+    .footer{
+        align-items: flex-start;
+        flex-direction: column;
+    }
 }
