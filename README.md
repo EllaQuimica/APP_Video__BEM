@@ -12,3 +12,6 @@ Preview
 
 ![Preview ](./docs/preview_app.png)
 
+![Preview ](./docs/Login.png)
+
+![Preview ](./docs/Register.png)
